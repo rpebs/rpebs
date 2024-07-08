@@ -41,5 +41,5 @@ Let's connect and chat about tech, games, or anime!
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanyrpebs&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanyrpebs&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpebs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpebs&layout=compact&theme=tokyonight)
