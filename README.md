@@ -16,14 +16,6 @@ I'm a passionate programmer with a love for coding, gaming, and anime. Here's a 
 - **Frameworks:** Laravel, CodeIgniter 4
 - **Tools & Technologies:** Git, Docker, MySQL, REST APIs, Vue.js
 
-## Projects & Contributions
-
-Here are some of the projects and contributions I'm proud of:
-
-- [**Project A**](https://github.com/Dhanyrpebs/Project-A): A brief description of what Project A is and what technologies it uses.
-- [**Project B**](https://github.com/Dhanyrpebs/Project-B): A brief description of what Project B is and what technologies it uses.
-- [**Contributions to Open Source**](https://github.com/Dhanyrpebs/contributions): A summary of contributions made to various open source projects.
-
 ## Connect with Me
 
 Let's connect and chat about tech, games, or anime!
