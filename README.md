@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dhanyrpebs 😎, a full-stack developer, gamers, and weaboo of course ! 🥳</div>  
+### <div align="center">I'm Ramadhany Pramestha 😎, a full-stack developer, gamers, and weaboo of course ! 🥳</div>  
 <div align="center">
 <a href="https://github.com/rpebs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
